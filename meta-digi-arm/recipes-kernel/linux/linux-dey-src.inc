@@ -4,7 +4,7 @@ LICENSE = "GPLv2"
 LIC_FILES_CHKSUM = "file://COPYING;md5=d7810fab7487fb0aad327b76f1be7cd7"
 
 LOCALVERSION = "-dey"
-SRCBRANCH = "v4.14/dey-2.6/maint/lagerdata"
+SRCBRANCH = "v4.14/dey-2.6/maint"
 SRCBRANCH_ccimx6 = "v4.9/dey-2.6/maint"
 SRCREV = "${AUTOREV}"
 
